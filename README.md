@@ -23,7 +23,7 @@ pip install time
 
 pip install fake-useragent
 
-https://github.com/MR-bigmasoud/snapp-bomber-sms.git
+git clone https://github.com/MR-bigmasoud/snapp-bomber-sms.git
 
 
 cd snapp-bomber-sms
