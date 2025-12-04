@@ -2,7 +2,7 @@
 Use it for fun and we don't accept any talk
 
 
-by : Bigmasoud
+by : Bigmasoud and hichkas
 
 
 our rubika : @Dreadnaught
