@@ -9,7 +9,7 @@ our rubika : @Dreadnaught
 
 
 # codes
-termux
+termux and terminal Linux
 
 
 pkg install python3
